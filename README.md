@@ -1,7 +1,7 @@
 # OBTPN-and-Crossview9
 # My Dataset
 
-This repository contains the code and resources for [Project Name]. The dataset is too large to host on GitHub，I have given some samples，See the folder. You can download the entire dataset using the following link:
+This repository contains the code and resources for [OBTPN]. The dataset is too large to host on GitHub，I have given some samples，See the folder. You can download the entire dataset using the following link:
 
 ## Dataset Download
 
