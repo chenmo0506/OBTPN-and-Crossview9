@@ -5,8 +5,9 @@ This repository contains the code and resources for [OBTPN]. The dataset is too 
 
 ## Dataset Download
 
-- **Baidu Cloud**: [Download Dataset (Baidu Cloud)]([https://pan.baidu.com/s/15hskMsKZv1DJGgiqxlpclg](https://pan.baidu.com/s/1sEwLArrvk2dLNDeVtWge5g))  
+- **Baidu Cloud**: [Download Dataset (Baidu Cloud)](https://pan.baidu.com/s/1sEwLArrvk2dLNDeVtWge5g)  
   Access Code: `a123`
+
 
 
 ## Usage
